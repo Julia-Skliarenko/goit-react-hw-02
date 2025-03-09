@@ -1,0 +1,10 @@
+.containerDescription {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.containerDescription p {
+    text-align: center;
+}
